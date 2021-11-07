@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🥅 Short term learning goals: mlops frameworks
 - 🌱 Long term learning goals: web development
 - 💬 Ask me about: Data Analytics
-- 🏋️‍♂️ Fun fact: I'm a lifetime natural lifter.
 
 ##
 
