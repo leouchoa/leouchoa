@@ -1,13 +1,11 @@
 ### Hi there, I'm Leonardo 👋
 
 
-Here are some ideas to get you started:
-
 - ⚡ Currently working on mlops strategies
-- 🔭 My next project will probably be about: nlp/cv/drl
-- 🥅 Short term learning goals: mlops frameworks
-- 🌱 Long term learning goals: web development
-- 💬 Ask me about: Data Analytics
+- 🔭 that's a telescope
+- 🥅 what is this symbol wth
+- 🌱 cool plant yo
+- 💬 Ask me if a I like using vim
 
 ##
 
